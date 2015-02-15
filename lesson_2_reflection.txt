@@ -1,3 +1,7 @@
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
 You can undo any changes and get a history of all the changes thus making it easier to debug.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is an intermediate area where file are ready to be committed. You can choose which files you want to be added in one commit. so it makes the commit process more flexiable.
