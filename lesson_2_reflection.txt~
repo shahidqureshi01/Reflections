@@ -17,3 +17,9 @@ Branches let you experiment with the code.
 How do the diagrams help you visualize the branch structure?
 
 Diagrames let you see the branches, their heads and the commits associated with them. It also lists the unreachable commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result would have changes from both master and branch. The diagram reprensentation give us parents of each commit, thus providing us logical history of a branch.
+
+

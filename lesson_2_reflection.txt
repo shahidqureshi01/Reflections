@@ -22,4 +22,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 The result would have changes from both master and branch. The diagram reprensentation give us parents of each commit, thus providing us logical history of a branch.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git automatic commit is easier for the user but you don't know the consequence while manaul commit is cumbersome but then you know what you're committing.
+
 
