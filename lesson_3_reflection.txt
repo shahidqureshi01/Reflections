@@ -5,3 +5,7 @@ When working within a team.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 All of your code might not be production worthy.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is the code which belongs to someone else and you dont want to amend it. Branches are your own versions on local computer for features and bug fixing. Clone is pulling code from remote server.
