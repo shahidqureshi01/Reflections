@@ -9,3 +9,7 @@ All of your code might not be production worthy.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Fork is the code which belongs to someone else and you dont want to amend it. Branches are your own versions on local computer for features and bug fixing. Clone is pulling code from remote server.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This will keep trach how far you're from the last know state of remote.
